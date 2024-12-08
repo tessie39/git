@@ -1,3 +1,3 @@
 "use strict";
 
-console.log("verzija 02");
+console.log("verzija 03");
