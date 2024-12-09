@@ -6,7 +6,8 @@ function a() {
 }
 
 function b() {
-  return "pozdrav";
+  return "Pozz iz grane 2";
 }
+
 console.log(a());
 console.log(b());
